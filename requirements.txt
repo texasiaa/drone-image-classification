@@ -1,0 +1,10 @@
+torch
+torchvision
+optuna
+scikit-learn
+matplotlib
+seaborn
+plotly
+pandas
+tqdm
+Pillow
